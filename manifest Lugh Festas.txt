@@ -5,10 +5,9 @@
   "short_name": "Lugh Festas",
   "start_url": "https://www.festainfantillugh.com.br/",
   "display": "standalone",
-  "scope": "/",
-  "background_color": "#eeeeee",
-  "theme_color": "Address Bar Color (Hex)",
-  "description": "DecoraÁ„o para festa de anivers·rio",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "description": "Decora√ß√£o para festa de anivers√°rio",
   "lang": "pt-BR",
   "orientation": "any",
   "icons": [{
