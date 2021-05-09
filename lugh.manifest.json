@@ -1,0 +1,48 @@
+{
+  "name": "Festa Infantil Lugh",
+  "short_name": "Lugh Festas",
+  "start_url": "https://www.festainfantillugh.com.br/?m=1",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0505f5",
+  "description": "Decoração para festa de aniversário",
+  "lang": "pt-BR",
+  "orientation": "any",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-QMxBeg9jG3k/X4FK8gXHX1I/AAAAAAAAxsk/4Phxc9YLPMMQf28y6zgM0_xah5Y6HqBAACLcBGAsYHQ/s0/Lugh-Festas-36.png",
+    "sizes": "36x36",
+    "type": "image/png",
+    "density": "0.75"
+  }, {
+    "src": "https://1.bp.blogspot.com/-BlVjdILSs14/X4FKuD0D-cI/AAAAAAAAxsc/-Yn_-tQ6byY7Nqs7IP1sM2fZB0FzcAkzwCLcBGAsYHQ/s0/Lugh-Festas-48.png",
+    "sizes": "48x48",
+    "type": "image/png",
+    "density": "1.0"
+  }, {
+    "src": "https://1.bp.blogspot.com/-jIpopP6ueHg/X4FKiBOEA2I/AAAAAAAAxsU/ELF3srO5eMIic5wn8lIFqTFXO7JN_x9IwCLcBGAsYHQ/s0/Lugh-Festas-72.png",
+    "sizes": "72x72",
+    "type": "image/png",
+    "density": "1.5"
+  }, {
+    "src": "https://1.bp.blogspot.com/-ywelefx6pG0/X4FKTUmFHsI/AAAAAAAAxsQ/urmA-n5n0WYKRx8inphjydFAXWOPtAmogCLcBGAsYHQ/s0/Lugh-Festas-96.png",
+    "sizes": "96x96",
+    "type": "image/png",
+    "density": "2.0"
+  }, {
+    "src": "https://1.bp.blogspot.com/-ETWfwnsBcYA/X4FH-pavTPI/AAAAAAAAxsA/0-RcqnUcTnk3fvn-6bCg0hzPDxrFncHcwCLcBGAsYHQ/s0/Lugh-Festas-144.png",
+    "sizes": "144x144",
+    "type": "image/png",
+    "density": "3.0"
+  }, {
+    "src": "https://1.bp.blogspot.com/-uC-kwZ9eCuY/X4FHvVs8jrI/AAAAAAAAxr8/TMPlMED5ZZQlcoZvlYiCPcM9JvjMZ6wxgCLcBGAsYHQ/s0/Lugh-Festas-192.png",
+    "sizes": "192x192",
+    "type": "image/png",
+    "purpose": "any maskable",
+    "density": "4.0"
+  }, {
+    "src": "https://1.bp.blogspot.com/-vVRPVYa85BY/X4FHZZ1K2VI/AAAAAAAAxr0/iUHhM89EmXgGkPO6R_mosR_32koYmcdBgCLcBGAsYHQ/s0/Lugh-Festas-512.png",
+    "sizes": "512x512",
+    "type": "image/png",
+    "density": "5.0"
+  }]
+}
