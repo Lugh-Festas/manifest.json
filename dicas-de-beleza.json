@@ -1,0 +1,48 @@
+{
+  "name": "Dicas de Beleza",
+  "short_name": "Dicas de Beleza",
+  "start_url": "https://dicasdebelezafatima.blogspot.com/?m=1",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0505f5",
+  "description": "Lojas, produtos e cursos para beleza feminina e masculina",
+  "lang": "pt-BR",
+  "orientation": "any",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-B8ElwbEl8ms/YKsXAobVO5I/AAAAAAAA-dU/_89TNYf3IQkryhqMgLb2ZaE6kSVq6UwCACLcBGAsYHQ/s0/logo-dicas-beleza-36-min.png",
+    "sizes": "36x36",
+    "type": "image/png",
+    "density": "0.75"
+  }, {
+    "src": "https://1.bp.blogspot.com/-l958O648C1o/YKsXUAzNH_I/AAAAAAAA-dc/FNWPxcj8AdUyNQ9FeT4QzUtWnwFcfftgwCLcBGAsYHQ/s0/logo-dicas-beleza-48-min.png",
+    "sizes": "48x48",
+    "type": "image/png",
+    "density": "1.0"
+  }, {
+    "src": "https://1.bp.blogspot.com/-W9dk95y8f8g/YKsXh4OOeqI/AAAAAAAA-dg/cUn2l_rDhjMNIIrcX1bBSjAt1IYWCWSdgCLcBGAsYHQ/s0/logo-dicas-beleza-72-min.png",
+    "sizes": "72x72",
+    "type": "image/png",
+    "density": "1.5"
+  }, {
+    "src": "https://1.bp.blogspot.com/-lBpdZ43HPVc/YKsXudpb6nI/AAAAAAAA-do/emwoT6BnGkw-urGEk_ovVJVTRCS6tC3FgCLcBGAsYHQ/s0/logo-dicas-beleza-96-min.png",
+    "sizes": "96x96",
+    "type": "image/png",
+    "density": "2.0"
+  }, {
+    "src": "https://1.bp.blogspot.com/-BySgHkN79-E/YKsX8sj8ObI/AAAAAAAA-ds/KTdEbFWQfScT98VacZLa6Y_6Agu3UpZ6QCLcBGAsYHQ/s0/logo-dicas-beleza-144-min.png",
+    "sizes": "144x144",
+    "type": "image/png",
+    "density": "3.0"
+  }, {
+    "src": "https://1.bp.blogspot.com/-WpnBZ6RZ5mo/YKsYJW8A7BI/AAAAAAAA-d0/qd_bGG_UrIAPhMBWc0hN5Wy4NfOlH2wcwCLcBGAsYHQ/s0/logo-dicas-beleza-192-min.png",
+    "sizes": "192x192",
+    "type": "image/png",
+    "purpose": "any maskable",
+    "density": "4.0"
+  }, {
+    "src": "https://1.bp.blogspot.com/-BFVoWdS5aLo/YKsYVNBOW7I/AAAAAAAA-d4/Hm-zlj8zpqAq6j2GcVF5CdFqzXhwA2LKACLcBGAsYHQ/s0/logo-dicas-beleza-512-min.png",
+    "sizes": "512x512",
+    "type": "image/png",
+    "density": "5.0"
+  }]
+}
