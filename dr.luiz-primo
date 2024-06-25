@@ -1,55 +1,55 @@
 {
-  "name": "Isenção de Imposto de Renda",
-  "short_name": "Dr Luiz C. Primo",
-  "start_url": "https://www.drluizprimo.com.br/?m=1",
-  "id": "/?m=1",
-  "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#0505f5",
-  "description": "Isenção de imposto de renda e restituição de valores pagos indevidamente",
-  "lang": "pt-BR",
-  "orientation": "any",
+  "name":"Isenção de Imposto de Renda",
+  "short_name":"Dr Luiz C. Primo",
+  "start_url":"https://www.drluizprimo.com.br/?m=1",
+  "id":"/?m=1",
+  "display":"standalone",
+  "background_color":"#ffffff",
+  "theme_color":"#0505f5",
+  "description":"Isenção de imposto de renda e restituição de valores pagos indevidamente",
+  "lang":"pt-BR",
+  "orientation":"any",
   "icons": [{
-    "src": "https://cdn.statically.io/img/ik.imagekit.io/xt2lqir00/icon-72x72.png",
-    "sizes": "72x42",
-    "type": "image/png",
-    "density": "0.75"
+    "src":"https://cdn.statically.io/img/ik.imagekit.io/xt2lqir00/icon-72x72.png",
+    "sizes":"72x42",
+    "type":"image/png",
+    "density":"0.75"
   }, {
-    "src": "https://cdn.statically.io/img/ik.imagekit.io/xt2lqir00/icon-96x96.png",
-    "sizes": "96x96",
-    "type": "image/png",
-    "density": "1.0"
+    "src":"https://cdn.statically.io/img/ik.imagekit.io/xt2lqir00/icon-96x96.png",
+    "sizes":"96x96",
+    "type":"image/png",
+    "density":"1.0"
   }, {
-    "src": "https://cdn.statically.io/img/ik.imagekit.io/xt2lqir00/icon-128x128.png",
-    "sizes": "128x128",
-    "type": "image/png",
-    "density": "1.5"
+    "src":"https://cdn.statically.io/img/ik.imagekit.io/xt2lqir00/icon-128x128.png",
+    "sizes":"128x128",
+    "type":"image/png",
+    "density":"1.5"
   }, {
-    "src": "https://cdn.statically.io/img/ik.imagekit.io/xt2lqir00/icon-144x144.png",
-    "sizes": "144x144",
-    "type": "image/png",
-    "density": "2.0"
+    "src":"https://cdn.statically.io/img/ik.imagekit.io/xt2lqir00/icon-144x144.png",
+    "sizes":"144x144",
+    "type":"image/png",
+    "density":"2.0"
   }, {
-    "src": "https://cdn.statically.io/img/ik.imagekit.io/xt2lqir00/icon-152x152.png",
-    "sizes": "144x144",
-    "type": "image/png",
-    "density": "3.0"
+    "src":"https://cdn.statically.io/img/ik.imagekit.io/xt2lqir00/icon-152x152.png",
+    "sizes":"144x144",
+    "type":"image/png",
+    "density":"3.0"
   }, {
     "src": "https://cdn.statically.io/img/ik.imagekit.io/xt2lqir00/icon-192x192.png",
-    "sizes": "192x192",
-    "type": "image/png",
-    "purpose": "any maskable",
-    "density": "4.0"
+    "sizes":"192x192",
+    "type":"image/png",
+    "purpose":"any maskable",
+    "density":"4.0"
   }, {
-    "src": "https://cdn.statically.io/img/ik.imagekit.io/xt2lqir00/icon-384x384.png",
-    "sizes": "512x512",
-    "type": "image/png",
-    "density": "5.0"
+    "src":"https://cdn.statically.io/img/ik.imagekit.io/xt2lqir00/icon-384x384.png",
+    "sizes":"512x512",
+    "type":"image/png",
+    "density":"5.0"
   }, {
-    "src": "https://cdn.statically.io/img/ik.imagekit.io/xt2lqir00/icon-512x512.png",
-    "sizes": "512x512",
-    "type": "image/png",
-    "purpose": "any maskable",
-    "density": "5.0"
+    "src":"https://cdn.statically.io/img/ik.imagekit.io/xt2lqir00/icon-512x512.png",
+    "sizes":"512x512",
+    "type":"image/png",
+    "purpose":"any maskable",
+    "density":"5.0"
   }]
 }
